@@ -82,3 +82,9 @@ e = "Wibi"
 
 search()
 ```
+
+### Output
+
+![2209116008 (Ayu Cahyarani) Posttest 2 ASD (fiboSearch1)](https://user-images.githubusercontent.com/121865360/224320373-e9e13ee4-54c6-4cb7-8364-97c5ccab132f.png)
+
+![2209116008 (Ayu Cahyarani) Posttest 2 ASD (fiboSearch2)](https://user-images.githubusercontent.com/121865360/224320445-e0663180-5c53-479b-a1fa-22aa0e783067.png)
