@@ -115,3 +115,4 @@ riwayat_nasabah.riwayat_transaksi()
 
 ### Output
 
+![Screenshot (398)](https://user-images.githubusercontent.com/121865360/225850791-08d24df0-488e-42c5-803c-7ea864d1d5a3.png)
